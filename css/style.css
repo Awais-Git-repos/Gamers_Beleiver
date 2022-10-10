@@ -54,3 +54,15 @@ min-height: 10vh;
     }
 
   }
+  @media(max-width:500px){
+    .container{
+      width: 100%;
+    }
+    html{
+        font-size: 45%;
+    }
+    .article_img{
+      width: 45%;
+    }
+
+  }
