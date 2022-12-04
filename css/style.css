@@ -26,7 +26,9 @@ width: 65%;
 min-height: 10vh;
 }
 
-
+ul li{
+margin-top:1rem;
+}
 
 
 .article_img{
