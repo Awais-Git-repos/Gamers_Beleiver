@@ -38,6 +38,10 @@ font-size:2rem
   width: 40%;
   height: 50vh;
 }
+.especial{
+height:55vh;
+width:30%
+}
   @media(max-width:998px){
     html{
         font-size: 55%;
@@ -69,9 +73,11 @@ font-size:2rem
         font-size: 45%;
     }
     .article_img{
-      width: 50%;
-      height: 35vh;
+      width: 45%;
     }
+      .especial{
+      width:45%;
+      }
       p{
        word-spacing: 1.5rem;
        font-size:2.5rem
