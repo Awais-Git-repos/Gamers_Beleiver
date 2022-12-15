@@ -32,7 +32,9 @@ ul li{
 margin-top:1rem;
 font-size:2rem
 }
-
+.hero container{
+height:60vh;
+}
 .article_img{
   width: 40%;
   height: 50vh;
@@ -71,6 +73,9 @@ width:30%
     .container{
       width: 90%;
     }
+      .hero container{
+      height:50vh
+      }
     html{
         font-size: 45%;
     }
